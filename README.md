@@ -1,6 +1,6 @@
 # Jobl AI Frontend (`jobl.ai`)
 
-Astro frontend repository for Jobl AI.
+React frontend repository for Jobl AI.
 
 ## Related repositories
 
